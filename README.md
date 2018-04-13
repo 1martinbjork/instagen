@@ -20,3 +20,7 @@ chmod +x instagen.sh
 ```
 apt-get install -y openssl curl
 ```
+### Donate!
+Support the authors:
+
+<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
